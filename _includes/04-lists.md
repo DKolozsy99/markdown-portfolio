@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Disc golf
+* Hanging out with family
+  * watching TV
+  * Playing games
