@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Although I am new to newtwork technolgoy and coding, _Progam languages_ I am quite efficent in **Word**.
